@@ -1,9 +1,10 @@
 import {Grid} from "@mui/material";
 import TrendingUpIcon from '@mui/icons-material/TrendingUp';
 import TrendingDownIcon from '@mui/icons-material/TrendingDown';
-import Header from "../Components/Home/Header";
-import Total from "../Components/Home/Total";
-import MoneyCard from "../Components/Home/MoneyCard";
+import Header from "../components/Home/Header";
+import Total from "../components/Home/Total";
+import MoneyCard from "../components/Home/MoneyCard";
+
 
 const Home = (): JSX.Element => {
     return (
